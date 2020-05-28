@@ -1,5 +1,5 @@
 # InstantMessengerBot
-Chat Moderator Bot for Instant Messenging service (Discord) I did for my class with the help of 2 other students (Listed under contributors)
+Chat Moderator Bot for Instant Messenging service (Discord) I did for my class with the help of 2 other students 
 #  Voltron Bot About/Help Sheet
 ## Introductory
 This page was created to help familiarize people with the Discord Bot, Voltron, and how to use its different commands. 
